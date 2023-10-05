@@ -1,7 +1,7 @@
-body {
+  body {
     text-align: center;
-    color:rgb(17, 55, 6)
-    background-color:lightblue
+    color:rgb(17, 55, 6);
+    background-color: powderblue;
   }
   
   h1 {
@@ -23,7 +23,7 @@ body {
     margin-top: 20px;
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #333;
+    background-color: #2a2727;
     color: #fff;
     border: none;
     cursor: pointer;
