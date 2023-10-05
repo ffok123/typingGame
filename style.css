@@ -1,11 +1,17 @@
 body {
     text-align: center;
+    color:rgb(17, 55, 6)
+    background-color:lightblue
   }
   
   h1 {
     color: #333;
   }
   
+  p {
+    color: #9a197c;
+  }
+
   input[type="text"] {
     width: 300px;
     height: 30px;
